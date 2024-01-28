@@ -3,8 +3,8 @@ A high performance slicing engine
 Copyright M. Bugra Akin
 
 # Compile commands
-cmake . 
-make
+cmake . \
+make \
 Use clean.sh in case you need to rebuild. 
 
 # Usage
