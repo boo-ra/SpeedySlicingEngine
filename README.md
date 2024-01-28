@@ -5,7 +5,8 @@ Copyright M. Bugra Akin
 # Compile commands
 cmake . \
 make \
-Use clean.sh in case you need to rebuild. 
+Use clean.sh in case you need to rebuild \
+To compile stl2c3d run build.sh
 
 # Usage
 ./SpeedySlice (use default settings in hpse.h)
