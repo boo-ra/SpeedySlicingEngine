@@ -9,11 +9,11 @@ Use clean.sh in case you need to rebuild \
 To compile stl2c3d run build.sh
 
 # Usage
-./SpeedySlice (use default settings in hpse.h)
-./SpeedySlice othergeom.stl (slice othergeom.stl, other settings from hpse.h)
-./SpeedySlice othergoem.stl 0.2 (set slicing distance to 0.2, other settings from hpse.h)
-./stl2c3d inputfile.stl outputfile.c3d
-./stl2c3d inputfile.stl outputfile.vtk
+./SpeedySlice (use default settings in hpse.h) \
+./SpeedySlice othergeom.stl (slice othergeom.stl, other settings from hpse.h) \
+./SpeedySlice othergoem.stl 0.2 (set slicing distance to 0.2, other settings from hpse.h) \
+./stl2c3d inputfile.stl outputfile.c3d \
+./stl2c3d inputfile.stl outputfile.vtk \
 
 Output: SVG files into new folder, created with geometry file name, in working directory
 
