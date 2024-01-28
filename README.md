@@ -4,7 +4,7 @@ Copyright M. Bugra Akin
 
 # Compile commands
 cmake . 
-build.sh
+make
 Use clean.sh in case you need to rebuild. 
 
 # Usage
