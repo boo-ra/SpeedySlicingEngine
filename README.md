@@ -26,4 +26,4 @@ The intention is to use stl2c3d later on.
 
 # Known issues/bugs
 bug: The inside color of a contour (SVG file) is seldomly chosen wrong. Selection criteria needs improvement. If you don't see the contour this is probably the reason. \
-issue: Tested only on Ubuntu. Might eventually cause a crash on other systems.
+Tested only on Ubuntu.
