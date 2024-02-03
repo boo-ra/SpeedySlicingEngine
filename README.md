@@ -1,6 +1,8 @@
 # SpeedySlicingEngine
 A high performance slicing engine
-Copyright M. Bugra Akin
+Copyright © 2024 M. Bugra Akin
+Method description: meshnomo.com
+Patent pending https://worldwide.espacenet.com/patent/search?q=pn%3DWO2023102583A1
 
 # Compile commands
 cmake . \
