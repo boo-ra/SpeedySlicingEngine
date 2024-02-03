@@ -371,6 +371,9 @@ void writeC3DFile(const std::string& fileName, const std::vector<Vertex>& unique
 
 
 int main(int argc, char* argv[]) {
+  std::cout << std::endl << "----------------- stl2c3d converter v0.1 ----------------" << std::endl;
+  std::cout << std::endl << "© Copyright 2024 M. Bugra Akin. All Rights Reserved." << std::endl << std::endl;
+
   // Start the timer
   auto start = std::chrono::high_resolution_clock::now();
 
