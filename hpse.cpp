@@ -15,7 +15,7 @@ namespace fs = std::filesystem;
 int main(int argc, char* argv[]) {
 	
   std::cout << std::endl << "----------------- SpeedySlice v0.1 ----------------" << std::endl;
-  std::cout << std::endl << "© Copyright 2021 M. Bugra Akin. All Rights Reserved." << std::endl << std::endl;
+  std::cout << std::endl << "© Copyright 2024 M. Bugra Akin. All Rights Reserved." << std::endl << std::endl;
   
   // start timer
   std::chrono::steady_clock::time_point begin = std::chrono::steady_clock::now();
